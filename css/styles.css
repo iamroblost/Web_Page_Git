@@ -1,0 +1,36 @@
+body{
+    background-color:#FCDEBE;
+}
+
+H1{
+    color: #3A445D;
+    font-family: Verdana, Geneva, Tahoma, 
+    sans-serif;
+    font-size: xx-large;
+}
+h2{
+    color:#5E5768;
+    font-family: 'Times New Roman', Times,
+      serif;
+}
+p{
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:link{
+    color:hotpink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:visited{
+    color:#611C35;
+   }
+
+A:hover{
+    color:hotpink;
+    font-style:normal;
+}

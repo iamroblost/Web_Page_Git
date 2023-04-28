@@ -1,0 +1,37 @@
+
+body{ 
+    background-color: hsl(82, 50%, 82%)
+}
+
+H1{
+    color: #611c35;
+    font-size: 50pt;
+    font-family: 'DM Sans', sans-serif;
+}
+h2{
+    color:rgb(46, 80, 119);
+    font-style: italic;
+    
+
+}
+p{
+    color: #823038;
+}
+
+a {text-decoration: none;
+font-style: italic;}
+
+a:link{
+    color:hotpink;
+
+}
+
+a:visited{
+    color:cadetblue;
+   }
+
+A:hover{
+    color:#611C35;
+    font-style:normal;
+
+}
