@@ -34,3 +34,26 @@ A:hover{
     color:hotpink;
     font-style:normal;
 }
+
+table {
+    table-layout: fixed;
+    width: auto;
+    border: 10px solid red;
+    border-collapse: collapse;
+    background-color: purple;
+  }
+  td{
+    border: 3px solid black;
+    padding: 10px;
+  }
+  
+  th{
+    font-style: italic;
+    font-size: 40px;
+    border: 3px solid black;
+    padding: 10px;
+
+  }
+  tfoot{
+    font-weight: bold;
+  }

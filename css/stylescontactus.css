@@ -2,16 +2,33 @@
 body{ 
     background-color: hsl(82, 50%, 82%)
 }
+ul{
+list-style-type: circle;
 
+}
+
+OL{list-style-type: lower-greek;
+
+}
+
+
+
+img{
+    opacity: .80;
+    border: 10px dashed black;
+    padding: 100px 50px 25px
+}
 H1{
     color: #611c35;
     font-size: 50pt;
     font-family: 'DM Sans', sans-serif;
+    border: 5px solid #0b385f;
+    border-bottom-style; dashed
 }
 h2{
     color:rgb(46, 80, 119);
     font-style: italic;
-    
+   
 
 }
 p{
